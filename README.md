@@ -1,5 +1,5 @@
 <h1 align="center">🌱 Hi there 👋,I'm Lakshan Vidanapathirana </h1>
-<h3 align="center">Im Undergraduate at SLIIT  in Sri Lanka</h3>
+<h5 align="center">Im Undergraduate at Sri Lanka Institute of Information Technology in Sri Lanka </h5>
 
 <a align="center" href="https://lakshanvidanapathirana.vercel.app/"> :point_right: Go to my portfolio</a>
 </br>
@@ -7,8 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rlvidanapathirana&label=Profile%20views&color=0e75b6&style=flat" alt="rlvidanapathirana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rlvidanapathirana" alt="rlvidanapathirana" /></a> </p>
-
-- 🌱 I’m currently learning **MERN,MEAN, API Devolpment**
 
 
 <h3 align="left">Connect with me:</h3>
