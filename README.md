@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://lakshanvidanapathirana.vercel.app/contact" target="blank"><img align="center" src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/64/000000/external-browser-marketing-growth-flatart-icons-lineal-color-flatarticons.png" alt="rlvidanapathirana" height="30" width="40" /></a>
-<a href="rlvidanapathirana@gmail.com" target="blank"><img align="center" src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" alt="rlvidanapathirana" height="30" width="40" /></a>
+
+<a href="https://lakshanvidanapathirana.vercel.app/contact" target="blank"><img align="center" src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" alt="rlvidanapathirana" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/lakshan-vidanapathirana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rlvidanapathirana" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rachitha.live" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rlvidanapathirana" height="30" width="40" /></a>
 <a href="https://twitter.com/lakshan_live" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rlvidanapathirana" height="30" width="40" /></a>
