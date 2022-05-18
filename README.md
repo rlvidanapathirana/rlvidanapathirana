@@ -1,6 +1,13 @@
 <h1 align="center">🌱 Hi there 👋,I'm Lakshan Vidanapathirana </h1>
 <h5 align="center">Im Undergraduate at Sri Lanka Institute of Information Technology in Sri Lanka </h5>
 
+  <a href=""><img alt="Linkedin" title="Lakshan Vidanapathirana" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.facebook.com/rachitha.live"><img alt="Facebook" title="Lakshan FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/lakshan_vidanapathirana"><img alt="Instagram" title="Lakshan" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="rlvidanapathirana@gmail.com"><img alt="Gmail" title="Lakshan" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/lakshan_live"><img alt="Twitter" title="thisara Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.behance.net/rachithalakshan"><img alt="Behance" title="thisara Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"></a>
+
 <a align="center" href="https://lakshanvidanapathirana.vercel.app/"> :point_right: Go to my portfolio</a>
 </br>
 
@@ -8,7 +15,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rlvidanapathirana" alt="rlvidanapathirana" /></a> </p>
 
+//Graph
 
+<a href="https://github.com/rlvidanapathirana/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asankagamage98&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+
+<a href="https://github.com/rlvidanapathirana/github-readme-stats"><img alt=" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asankagamage98&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -20,7 +38,7 @@
 <a href="https://www.behance.net/rachithalakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rlvidanapathirana" height="30" width="40" /></a>
 
 </p>
-
+-->
 
 <!--
 **rlvidanapathirana/rlvidanapathirana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
