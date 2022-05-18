@@ -3,15 +3,17 @@
         <img src="GitHub.png" height="200"/>
     </div>
     <div align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi there 👋,I'm Lakshan Vidanapathirana🌱;I'm Undergraduate at Sri Lanka Institute of Information Technology in Sri Lanka"/>
+        
     </div>
+    
+ <h1 align="center">🌱 Hi there 👋,I'm Lakshan Vidanapathirana </h1>
+<h5 align="center">I'm Undergraduate at Sri Lanka Institute of Information Technology in Sri Lanka </h5>
   
   <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer" /></a>
 </p>
 
-<!-- <h1 align="center">🌱 Hi there 👋,I'm Lakshan Vidanapathirana </h1>
-<h5 align="center">I'm Undergraduate at Sri Lanka Institute of Information Technology in Sri Lanka </h5> -->
+
   
 <!-- Side img -->  
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
