@@ -6,7 +6,8 @@
   <a href="https://www.instagram.com/lakshan_vidanapathirana"><img alt="Instagram" title="Lakshan" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="rlvidanapathirana@gmail.com"><img alt="Gmail" title="Lakshan" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://twitter.com/lakshan_live"><img alt="Twitter" title="thisara Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://www.behance.net/rachithalakshan"><img alt="Behance" title="thisara Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"></a>
+ <!--
+ <a href="https://www.behance.net/rachithalakshan"><img alt="Behance" title="thisara Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"></a>-->
 
 <a align="center" href="https://lakshanvidanapathirana.vercel.app/"> :point_right: Go to my portfolio</a>
 </br>
@@ -17,11 +18,11 @@
 
 //Graph
 
-<a href="https://github.com/rlvidanapathirana/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asankagamage98&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/rlvidanapathirana/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rlvidanapathirana&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 
-<a href="https://github.com/rlvidanapathirana/github-readme-stats"><img alt=" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asankagamage98&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/rlvidanapathirana/github-readme-stats"><img alt=" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlvidanapathirana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
