@@ -1,6 +1,21 @@
-<h1 align="center">🌱 Hi there 👋,I'm Lakshan Vidanapathirana </h1>
-<h5 align="center">Im Undergraduate at Sri Lanka Institute of Information Technology in Sri Lanka </h5>
+<div>
+    <div align="center">
+        <img src="GitHub.png" height="200"/>
+    </div>
+    <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=🌱 Hi there 👋,I'm Lakshan Vidanapathirana;I'm Undergraduate at Sri Lanka Institute of Information Technology in Sri Lanka"/>
+    </div>
+  
+  <p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
+</p>
 
+<!-- <h1 align="center">🌱 Hi there 👋,I'm Lakshan Vidanapathirana </h1>
+<h5 align="center">I'm Undergraduate at Sri Lanka Institute of Information Technology in Sri Lanka </h5> -->
+  
+<!-- Side img -->  
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+  
   <a href=""><img alt="Linkedin" title="Lakshan Vidanapathirana" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.facebook.com/rachitha.live"><img alt="Facebook" title="Lakshan FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/lakshan_vidanapathirana"><img alt="Instagram" title="Lakshan" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -16,7 +31,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rlvidanapathirana" alt="rlvidanapathirana" /></a> </p>
 
-//Graph
+<!--Graph-->
 
 <a href="https://github.com/rlvidanapathirana/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rlvidanapathirana&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
@@ -25,6 +40,9 @@
 <a href="https://github.com/rlvidanapathirana/github-readme-stats"><img alt=" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlvidanapathirana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <i>Random dev joke for you!</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 
 <!--
